@@ -23,10 +23,10 @@ optimize_portfolio(tickers, start_date, end_date): This function optimizes the p
 ### Environment
 Libraries required:
 -pandas
--numpy as np
--yfinance as yf
+-numpy
+-yfinance
 -datetime
--minimize
+-scipy
 
 
 ### Basic example
